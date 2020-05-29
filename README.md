@@ -1,4 +1,4 @@
-## <p align="center"><b>Localizador de usuários</b></p>
+## <p align="center"><b>Localizador de Usuários</b></p>
 
 <p align="center">
   <img src="./src/example_01.gif">
@@ -6,7 +6,7 @@
 
 ### :muscle: Projeto
 
-<b>Localizador de usuários</b> é um projeto que visa aplicar os conhecimentos em JavaScript para manipulação e visualização de dados através da API 'Users'.
+<b>Localizador de usuários</b> é um projeto que visa aplicar os conhecimentos em <b>JavaScript</b> para manipulação e visualização de dados através de uma API.
 O projeto faz parte do <b>Bootcamp Desenvolvedor Full Stack</b> ministrado pelo IGTI.
 
 Os demais projetos relacionados ao Bootcamp podem ser encontrados no repositório:
@@ -21,6 +21,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS3](https://www.w3.org/TR/css3-roadmap/)
 - [JavaScript](https://www.ecma-international.org/ecma-262/9.0/index.html)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Bootstrap](https://getbootstrap.com)
+- [Random User API](https://randomuser.me)
 
 ### :recycle: Como contribuir
 
